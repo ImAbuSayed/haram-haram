@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/haram-haram/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Haram Haram](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/haram-haram/) |
+| **Get License** | [Commercial Licensing for Haram Haram](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/haram-haram/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਰਾਤਾਂ ਦੀ ਚੁੱਪ ਵਿੱਚ got no peace ਮੇਰਾ ਦਿਲ ਘਬਰਾਵੇ
+> ਤੇਰੇ ਨੈਣਾਂ ਦਾ ਜਾਦੂ my release ਮੈਨੂੰ ਤੜਫਾਵੇ
+> ਮੈਂ ਲੱਭਦਾ ਹਾਂ ਤੈਨੂੰ crazy dream ਬਣਕੇ ਤੂੰ ਆਈ
+> ਮੇਰਾ ਦਿਲ ਹੋਇਆ ਪਾਗਲ midnight gleam ਅੱਗ ਲਗਾਈ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
