@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/haram-haram/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Haram Haram](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/haram-haram/) |
+| **Get License** | [Get License For Haram Haram](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/haram-haram/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ffeeaf6284dffc733f4ec7ae77a46f7a3b2e348f16d8136fec99cd874304026c` |
 | **Timestamp** | May 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

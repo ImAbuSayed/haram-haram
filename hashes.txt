@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Haram Haram
+
+This log tracks the cryptographic history and versioning for the song **Haram Haram** (haram-haram).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T03:03:50.833877 | `v1` | `ffeeaf6284dffc733f4ec7ae77a46f7a3b2e348f16d8136fec99cd874304026c` | `db285c2569b0d5ddd8081a61d1b526cdf09bc18a5f938c942d7ea4d485d2b779` | `2026-05-21_haram-haram-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
